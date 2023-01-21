@@ -19,11 +19,15 @@
     }
 
     .contact p {
-        font-size: 22px;
+        font-size: 18px;
     }
 
     footer p:nth-child(1){
-        font-size: 22px;
+        font-size: 18px;
+    }
+
+    footer p:nth-child(2){
+        font-size: 14px;
     }
 
 }
