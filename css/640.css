@@ -1,0 +1,29 @@
+@media (max-width: 640px) {
+
+    .hero {
+        background-image: url(/img/background_img640-1.png);
+    }
+
+    .logo {
+        width: 180px;
+    }
+
+    .content {
+        top: 58%;
+        left: 5%;
+    }
+
+    .btn {
+        position: absolute;
+        top: -15%;
+    }
+
+    .contact p {
+        font-size: 22px;
+    }
+
+    footer p:nth-child(1){
+        font-size: 22px;
+    }
+
+}
