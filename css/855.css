@@ -1,7 +1,7 @@
 @media (max-width: 880px) {
 
     .hero {
-        background-image: url(/img/background_img640-1.png);
+        background-image: url("/img/background_img640-1.png");
     }
 
     .menu-i {

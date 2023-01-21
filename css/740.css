@@ -1,7 +1,7 @@
 @media (max-width: 740px) {
 
     .hero {
-        background-image: url(/img/background_img412-1.png);
+        background-image: url("/img/background_img412-1.png");
     }
 
     .content {
